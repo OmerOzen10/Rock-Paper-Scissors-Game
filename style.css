@@ -1,0 +1,43 @@
+#containerGame{
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    background-color: rgb(149, 186, 235);
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 200px;
+}
+
+#playerMove{
+    font-size: 30px;
+    color: blue;
+    margin-top: 20px;
+    display: block;
+}
+#computerMove{
+    display: block;
+    margin-top: 20px;
+    font-size: 30px;
+    color: blueviolet;
+}
+
+#result{
+    display: block;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+
+
+
+.btnGame{
+    font-size: 20px;
+    background-color: rgb(125, 219, 157);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 80px;
+    
+}
